@@ -11,6 +11,7 @@ return array(
     $vendorDir . '/symfony/var-dumper/Resources/functions/dump.php',
     $vendorDir . '/symfony/polyfill-php56/bootstrap.php',
     $vendorDir . '/swiftmailer/swiftmailer/lib/swift_required.php',
+    $vendorDir . '/phpseclib/phpseclib/phpseclib/Crypt/Random.php',
     $vendorDir . '/psy/psysh/src/Psy/functions.php',
     $vendorDir . '/paragonie/random_compat/lib/random.php',
     $vendorDir . '/laravel/framework/src/Illuminate/Foundation/helpers.php',

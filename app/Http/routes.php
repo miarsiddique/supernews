@@ -12,5 +12,13 @@
 */
 
 Route::get('/', function () {
-    return view('pages.home');
+    return view('admin.pages.home');
+});
+
+Route::get('/login', function () {
+    return view('admin.pages.login');
+});
+
+Route::get('/register', function () {
+    return view('admin.pages.register');
 });
