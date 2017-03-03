@@ -39,7 +39,8 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'http://localhost'),
+    // 'url' => env('APP_URL', 'http://localhost'),http://www.lyricnaat.96.lt
+    'url' => env('APP_URL', 'http://www.lyricnaat.96.lt'),
 
     /*
     |--------------------------------------------------------------------------
